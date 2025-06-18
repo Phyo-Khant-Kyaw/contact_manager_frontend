@@ -11,7 +11,7 @@ The project is deployed on **Vercel** and connected to a backend server for API 
 - Admin Login:
   - Email: `test@gmai.com`
   - Password: `testing123`
-  - Url: `[https://contact-manager-frontend-lemon.vercel.app/Login](https://contact-manager-frontend-lemon.vercel.app/Login)`
+  - Url: `https://contact-manager-frontend-lemon.vercel.app/Login`
 
 ---
 
