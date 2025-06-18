@@ -1,4 +1,4 @@
-import { API_URLS } from "../enums/aaa";
+import { API_URLS } from "../enums/URLS";
 import { client } from "./client";
 
 const createContact = async (payload) => {
