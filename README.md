@@ -27,5 +27,5 @@ The project is deployed on **Vercel** and connected to a backend server for API 
 ## Environment Variables
 
 - npm install
-- update .env with ###VITE_APP_API_BASE_URL=https://tranquil-perfection-production.up.railway.app/api
+- update .env with ###VITE_APP_API_BASE_URL=https://tranquil-perfection-production.up.railway.app/api to [http://localhost:8080/api]
 - npm run dev
